@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    border: 5px dotted white;
+    color: white;
+}
+
+img{
+   height: 200px; 
+}
+
+p{
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+article{
+    width: 300px;
+}
+
+article{
+    text-align: center;
+}
+
+article a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+main img{
+    border-radius: 0%;
+    height: 1000px;
+}
+
+main{
+     display: flex;
+     justify-content: center;
+}
+
+nav img{
+    height: 300px;
+    border-radius: 50%;
+    border: 10px dotted white;
+}
